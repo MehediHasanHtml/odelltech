@@ -1,0 +1,137 @@
+/* ****************
+Ratina
+************** */
+
+@media (min-width: 1920px) {}
+
+@media (max-width: 1920px) {}
+
+@media (max-width: 1600px) {}
+
+@media (max-width: 1400px) {}
+
+@media (max-width: 1200px) {}
+
+@media (max-width: 1199px) {
+    .navbar-expand-xl .navbar-nav .nav-link {
+        color: #000;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        font-size: 14px;
+        font-weight: 700;
+        text-transform: uppercase;
+    }
+    .navbar-collapse {
+        height: 400px;
+        overflow-y: scroll;
+    }
+}
+
+
+/* ****************
+Desktop
+************** */
+
+@media (max-width: 1024px) {}
+
+@media (max-width: 992px) {}
+
+@media (max-width: 991px) {
+    .support ul {
+        display: block;
+    }
+    .support ul li a {
+        display: inline-block;
+    }
+    .support li {
+        width: 100%;
+        display: inline;
+    }
+    .title2 h2 {
+        font-size: 32px;
+    }
+    .title2 p {
+        font-size: 16px;
+    }
+    .software-con h2 {
+        font-size: 24px;
+    }
+    .schools {
+        display: block;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    .banner-school {
+        height: auto;
+    }
+    .school-title {
+        text-align: center;
+    }
+}
+
+
+/* **************** 
+Tab 
+************** */
+
+@media (max-width: 767px) {
+    .navbar-brand img {
+        height: 36px;
+    }
+    .margintop {
+        margin-top: 70px;
+    }
+    .about-logo img,
+    .excellence-img img {
+        margin-bottom: 25px;
+    }
+    .news-title {
+        margin-bottom: 15px;
+        text-align: center;
+    }
+    .call {
+        justify-content: center;
+        height: 100%;
+    }
+    .support ul li a {
+        display: block;
+        font-size: 16px;
+    }
+    .maps h2,
+    .touch h2 {
+        font-size: 24px;
+    }
+    .maps iframe {
+        width: 100%;
+        height: 360px;
+    }
+    .callus h3 {
+        font-size: 20px;
+    }
+    .banner-top {
+        height: 160px;
+    }
+    .banner-title {
+        height: 90px;
+    }
+    .mission-vision {
+        margin-top: -80px;
+    }
+}
+
+@media (max-width: 575px) {}
+
+@media (max-width: 480px) {}
+
+
+/* **************** 
+Mobile 
+************** */
+
+@media (max-width: 375px) {}
+
+@media (max-width: 360px) {}
+
+@media (max-width: 320px) {}
